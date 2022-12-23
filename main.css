@@ -8,6 +8,13 @@
     src: url(used/dum1.ttf);
 }
 
+@media screen and (max-width: 600px) {
+    .body{
+        margin-left:10px;
+        margin-right:10px;
+    }
+}
+
 body{
     margin:0;
     margin-bottom: 50px;
